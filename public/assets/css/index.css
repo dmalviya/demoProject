@@ -1,5 +1,4 @@
 body .main
 {
-    margin : 20%;
-    background-color: #d18f02;
+    background: linear-gradient(#000046, #1cb5e0);  
 }
