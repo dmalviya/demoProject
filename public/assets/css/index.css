@@ -1,4 +1,23 @@
 body 
 {
-    background: linear-gradient(#000046, #1cb5e0);  
+    
+    text-align: center;
+   background: linear-gradient(to left,#6405e0, #047dee); 
+
+min-height: 60.1rem
+}
+
+.box
+{
+    
+    background-repeat: no-repeat;
+    min-height: 900.1rem
+    margin: 1.4rem;
+    color: rgb(255, 255, 255);
+    padding: 6rem 1rem;
+}
+h1
+{
+   background: linear-gradient(to right,#008b79, #1cb5e0); 
+    
 }
